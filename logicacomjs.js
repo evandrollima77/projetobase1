@@ -121,6 +121,12 @@ while (senhacorreta !== senhadigitada){
     console.log("bem vindo ao sistema!")
 }*/
 
-for (let i = 1; i <11; i++){
-    console.log(i);
-}
+function contagemregressiva(numero)[
+    alert(numero)
+    if(numero===0){
+    }
+        alert("chegou");
+        contagemregressiva(numero-1)
+    ]
+    contagemregressiva(5)
+    
